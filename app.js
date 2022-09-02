@@ -21,7 +21,7 @@ function myFunction() {
 
 function myFunction2() {
   document.getElementById("bodyy").style.backgroundImage =
-    "url(./img/159081.jpg)";
+    "url(./img/769596.jpg)";
   //   document.getElementById("click1").style.backgroundColor = "purple";
 }
 function myFunction3() {
@@ -31,7 +31,7 @@ function myFunction3() {
 }
 function myFunction4() {
   document.getElementById("bodyy").style.backgroundImage =
-    "url(./img/ultra-hd-cyberpunk-futuristic-city-5k-wallpaper-11624392501x6ivl2gw9o.jpg)";
+    "url(./img/itl.cat_shadowrun-wallpaper_1341074.png)";
   //   document.getElementById("click2").style.backgroundColor = "azure";
 }
 function myFunction5() {
